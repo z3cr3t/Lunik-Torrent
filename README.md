@@ -45,7 +45,7 @@ $ npm run deamon
 ```
 
 ## With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/z3cr3t/Lunik-Torrent)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/z3cr3t/torrent_downloader)
 /!\ Heroku don't store any data. Once your app shutdown, you will loose all your login and your files.
 To prevent that you can use [kaffeine](http://kaffeine.herokuapp.com/) to keep your app UP 24/24.
 
